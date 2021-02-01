@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201006</CreaDate><CreaTime>13003800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\Contour" Date="20201006" Time="130043">Contour rubavu.csv "D:\pro\AEE\220kV Line\Data\Contours.shp" 5 0 1 CONTOUR #</Process></lineage></DataProperties></Esri><contour_type>CONTOUR</contour_type></metadata>

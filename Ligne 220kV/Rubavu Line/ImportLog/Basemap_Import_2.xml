@@ -1,0 +1,49 @@
+<ImportMXDLog>	<Messages>
+		<FileName>G:\Ref\Rwanda Map Stylized\Basemap.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>Elementary_School</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>Elementary_School</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>National Parks</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Wetlandds</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Protected Forests</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>

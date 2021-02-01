@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RubavuLineroute.kml</name>
+	<Style id="style1">
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<styleUrl>#style1</styleUrl>
+		<LineString>
+			<coordinates>
+				29.31208750000003,-1.741763333333177,0 29.3091427777778,-1.740899722222053,0 29.29844916666671,-1.749023055555392,0 29.29695666666676,-1.75061138888873,0 29.2925811111112,-1.753012222222048,0 29.28641361111117,-1.756631388888725,0 29.27861833333342,-1.758665277777633,0 29.27761138888895,-1.758907499999853,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+TYPE='DON FILE' VERSION='21' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.don'
+1 0
+
+1 0 255 255 255 1 1 0 0 'C' ''
+0.000000 0 0 0 0 0.000000 '7:40:14 AM 10/6/2020'
+1
+0
+0
+c:\users\public\documents\pls\pls_cadd\examples\struct
+c:\users\public\documents\pls\pls_cadd\examples\cables
+c:\users\public\documents\pls\pls_cadd\examples\projects\demo.prt
+
+
+
+1 1 2 1
+0 0 1 2 2
+2
+
+
+"" "" "" "" "" 
+1800 1200 10 204.444 0.1524
+TYPE='DXF ATTACHMENTS' VERSION='1' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.don'
+0 ; number dxf files attached
+TYPE='BMP ATTACHMENTS' VERSION='2' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.don'
+0 0.914400 ; number bmp files attached, minimum pixel size
+TYPE='ANNOTATION' VERSION='4' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.don'
+1 ; Number annotation records
+3 51.00000 31.00000 0.00000 0 0 0 0 0 0 0 0'%n\n%d\nPage %p/%q'
+TYPE='INSET VIEWS' VERSION='1' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.don'
+0 ; number of inset views

@@ -1,0 +1,30 @@
+TYPE='STRUCT FILE' VERSION='7.2' UNITS='SI' SOURCE='PLS-CADD' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\stick\suspension_tower.str'
+Suspension Tower
+
+
+40 0
+4
+'GW' 'C' 'N' 'N' 0 1
+0 0 0 'UNDEF' 'UNDEF' 0 1 0
+'P1-L' 'I' 'N' 'N' 0 1
+1000 0.0012 2 10 5 10 5 10 5 10 5
+-3 2 0 'UNDEF' 'UNDEF' 0 1 0
+'P2-R' 'I' 'N' 'N' 0 1
+1000 0.0012 2 10 5 10 5 10 5 10 5
+3 3 0 'UNDEF' 'UNDEF' 0 1 0
+'P3-L' 'I' 'N' 'N' 0 1
+1000 0.0012 2 10 5 10 5 10 5 10 5
+-3 6 0 'UNDEF' 'UNDEF' 0 1 0
+S
+
+
+
+0
+
+
+0
+0
+0 0 0 0
+TYPE='PRT FILE' VERSION='2' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\stick\suspension_tower.str'
+0 ; number of user columns
+0 0

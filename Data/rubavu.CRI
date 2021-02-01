@@ -1,0 +1,175 @@
+TYPE='CRI FILE' VERSION='50' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.cri'
+1 ; m_iStringingDataWindDir
+I ; m_cStringingDataCondition
+0
+; weather
+1
+'init_lc_to_bare' 0 0.613 0 0 0 0 -17.77777778 1 'None' '1' '1'
+; cable_tension1
+0
+; autosag1
+0
+; struct_wgtspan
+3
+I ''
+I ''
+I ''
+; struct_wndwgtspan_report
+0
+; struct_loads
+0
+; struct_interact
+0
+; vertical_clear
+0
+; phase_clear
+2
+I ''
+I ''
+; insul_swing
+4
+I ''
+I ''
+I ''
+I ''
+; DepartureAngle
+0
+'' ; Weather Case for Final After Creep
+; WC for final after load
+0
+0 ; old_global_section_display
+'' ; Global Display Weather Case
+I ; old_global_section_display_condition
+1 ; old_global_section_color
+1 ; m_iDrawClearanceLineCenterAndSideProf
+0 ; clearance_voltage
+0 ; old_draw_all_phases
+C ; asce_terrain_type
+1 ; use_actual_max_tension
+1 ; true_weight_span
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC 1 1 '' '' ;galloping
+0 ; outer_strands_compression
+; cExportSapsSagsecLoads
+0
+0 ; iBogus
+0 ; iBogus
+0 ; dBogus
+0 ; dBogus
+0 ; dBogus
+2 ; iSapsLevel
+0 ; rgdStiffness[i][j]
+0 ; rgdStiffness[i][j]
+0 ; rgdStiffness[i][j]
+0 ; rgdStiffness[i][j]
+0 ; rgdStiffness[i][j]
+0 ; rgdStiffness[i][j]
+0 ; iNoL4Towers
+0 ; iNoL4Symetrical
+0 ; iStrippedL4Towers
+0 ; iNoL3Towers
+15.55555556 ; m_dDefaultWireTemp
+I ; m_cDefaultWireCondition
+6.894744825e+010 ; dACSRMaxCompressiveStress
+2 ; m_iUKNNATerrainType
+1 ; m_dUKNNAReliabilityLevelPartialFactor
+1 ; m_dUKNNAShapeFactor
+0.1428571429 ; m_dSAPSWindPower
+10 ; m_dSAPSWindRefHeight
+2 ; m_iCenelecTerrainType
+B ; m_cIECTerrainType
+2 ; m_dTPNZTerrainType
+1 ; m_dTPNZIcedDragCoeff
+1 ; m_dTPNZWindPressureUnitAction
+0 ; m_iSagTenReportFE
+-1.111111111 ; m_dStringChartTempStart
+21.11111111 ; m_dStringChartTempStop
+5.555555556 ; m_dStringChartTempInc
+I ; m_cStringChartCondition
+0 ; m_iStringChartIncludeConcentratedLoads
+3 ; m_nStringChartWaves
+1 ; m_dCB1IcedDragCoeff
+1 ; m_iCBTerrainTypeAndRegion
+1 ; m_iStrLoadsReportIncCri
+0 ; m_iStrLoadsReportIncSpanLoads
+1 ; m_iStrLoadsReportIncStructLoads
+0 ; m_iStrLoadsReportIncMoments
+1 ; m_iStrLoadsReportIncWind
+0 ; m_iStrLoadsReportIncJntLbl
+1 ; m_iStrLoadsReportIncSetPhase
+256 ; m_iStrLoadsReportPicWidth
+256 ; m_iStrLoadsReportPicHeight
+1 ; m_iStrLoadsReportIncWires
+0 ; m_iStrLoadsReportIncStructLoadsCondensed
+0 ; m_iStatnettLoadsReport
+-1 ; m_iStrCommentForWireWindVelFactor
+-1 ; m_iStrCommentForWireIceLoadFactor
+-1 ; m_iStrCommentForStrWindVelFactor
+0 ; m_iStrLoadsReportIncDebug
+-1 ; m_iStrCommentForWireIceThickFactor
+A ; m_cRussiaTerrainCategory
+; Load Train
+0
+0 ; m_iLoadTrainPositionRestriction
+0 ; m_dClearanceLineVerticalBuffer
+1 ; m_iDrawClearanceLineSpikes
+0 ; iLowestWireOnly
+; Wire Clearance Line
+0
+
+1 ; m_iDisplayProfWireClearLine
+0 ; m_iDisplayPlanWireClearLine
+1 ; m_iDisplayPPProfWireClearLine
+0 ; m_iDisplayPPPlanWireClearLine
+; EN50341-3-9:2001 UK NNA Minimum and Maximum Ice Thickness Limits
+0
+1 ; m_iClearWindRamp

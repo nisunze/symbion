@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201007</CreaDate><CreaTime>11204000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\ExportCAD" Date="20201007" Time="112040">ExportCAD osm_osm_ply "DWG version 2018" "D:\pro\AEE\220kV Line\Data\osm_buildings.dwg" Ignore_Filenames_in_Tables Overwrite_Existing_Files #</Process></lineage></DataProperties></Esri></metadata>

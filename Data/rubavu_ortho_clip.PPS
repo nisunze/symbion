@@ -1,0 +1,92 @@
+TYPE='PPS FILE' VERSION='36' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu_ortho_clip.pps'
+76.200000
+15.240000
+10.000000
+10.000000
+10.000000
+10.000000
+0.000000
+42.000000
+29.700000
+27.000000
+12.000000
+10.000000
+95.000000
+86.000000
+97.000000
+5.000000
+95.000000
+13.000000
+79.000000
+90.000000
+100.000000
+2.000000
+12.000000
+30.000000
+40.000000
+93.000000
+100.000000
+0.000000
+0.000000
+0.000000
+0.000000
+79.000000
+85.000000
+5.000000
+0.000000
+0.000000
+1 1 1 0 0 0 0 0 0
+0 0 0 0 0 0
+1
+0.5
+1 -1
+1 1 1 1 1 4294967295 1 1 1
+1 1 1 0 0 0 4294967295 1 1 1
+1 0 1 1 1 0 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1
+0 1 0 0 128 128 128 0
+1 1 0 0 0 0 0 0
+1
+0 0
+1
+0 0 1 1
+1
+0 0
+-1 0
+2
+1 1
+1.307100 98.692900 1.307100 84.848500 0; sheet percentages
+0 1 1 0 50 0
+0 0 1 1
+0 0 0 0 0 0 0 0 1 1 0 0
+8 0 50
+0 0 0 0 0 0 0 0 0 0 5 5 0 0 2 1 1 0 0 0 0 0 1
+0 0 1 ; LiDAR color coding
+0 1 0
+0.248118 0.248118 0 0 8421504   0.248118 0.248118 0 0 8421504  'Major Station Grid Profile' 'Major Station Grid Profile Text' 'Major Station Grid Plan' 'Major Station Grid Plan Text'
+0.248118 0.248118 0 0 8421504   0.248118 0.124059 0 0 8421504  'Minor Station Grid Profile' 'Minor Station Grid Profile Text' 'Minor Station Grid Plan' 'Minor Station Grid Plan Text'
+0.248118 0.248118 0 0 8421504   0.248118 0.248118 0 0 8421504  'Major Elevation Grid and Contour Lines Profile' 'Major Elevation Grid and Contour Lines Profile Text' 'Major Elevation Grid and Contour Lines Plan' 'Major Elevation Grid and Contour Lines Plan Text'
+0.248118 0.248118 0 0 8421504   0.248118 0.248118 0 0 8421504  'Minor Elevation Grid Profile' 'Minor Elevation Grid Profile Text' 'Minor Elevation Grid Plan' 'Minor Elevation Grid Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Ground Line Profile' 'Ground Line Profile Text' 'Ground Line Plan' 'Ground Line Plan Text'
+0.248118 0.248118 0 3 8388608   0.248118 0.248118 0 3 8388608  'Left Side Profiles Profile' 'Left Side Profiles Profile Text' 'Left Side Profiles Plan' 'Left Side Profiles Plan Text'
+0.248118 0.248118 0 1 32768   0.248118 0.248118 0 1 32768  'Right Side Profiles Profile' 'Right Side Profiles Profile Text' 'Right Side Profiles Plan' 'Right Side Profiles Plan Text'
+0.248118 0.248118 0 5 0   0.248118 0.248118 0 5 0  'Clearance line Profile' 'Clearance line Profile Text' 'Clearance line Plan' 'Clearance line Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Structures Profile' 'Structures Profile Text' 'Structures Plan' 'Structures Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Sections span lengths and Marker Balls Profile' 'Sections span lengths and Marker Balls Profile Text' 'Sections span lengths and Marker Balls Plan' 'Sections span lengths and Marker Balls Plan Text'
+0.248118 0.496236 0 0 0   0.248118 0.248118 0 0 0  'Alignment and PI Symbols Profile' 'Alignment and PI Symbols Profile Text' 'Alignment and PI Symbols Plan' 'Alignment and PI Symbols Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Terrain Symbols text leaders Profile' 'Terrain Symbols text leaders Profile Text' 'Terrain Symbols text leaders Plan' 'Terrain Symbols text leaders Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Spotting Constraints Profile' 'Spotting Constraints Profile Text' 'Spotting Constraints Plan' 'Spotting Constraints Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Annotation Profile' 'Annotation Profile Text' 'Annotation Plan' 'Annotation Plan Text'
+0.248118 0.248118 0 0 255   0.248118 0.248118 0 0 0  'Station Equations Profile' 'Station Equations Profile Text' 'Station Equations Plan' 'Station Equations Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Sheet Scales Area Profile' 'Sheet Scales Area Profile Text' 'Sheet Scales Area Plan' 'Sheet Scales Area Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Sheet Title Area Profile' 'Sheet Title Area Profile Text' 'Sheet Title Area Plan' 'Sheet Title Area Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Sheet Border Profile' 'Sheet Border Profile Text' 'Sheet Border Plan' 'Sheet Border Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'DXF Attachments Profile' 'DXF Attachments Profile Text' 'DXF Attachments Plan' 'DXF Attachments Plan Text'
+0.248118 0.248118 0 0 8421504   0.248118 0.248118 0 0 8421504  'Sub Minor Station Grid Profile' 'Sub Minor Station Grid Profile Text' 'Sub Minor Station Grid Plan' 'Sub Minor Station Grid Plan Text'
+0.248118 0.248118 0 0 8421504   0.248118 0.248118 0 0 8421504  'Sub Minor Elevation Grid Profile' 'Sub Minor Elevation Grid Profile Text' 'Sub Minor Elevation Grid Plan' 'Sub Minor Elevation Grid Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Markers Profile' 'Markers Profile Text' 'Markers Plan' 'Markers Plan Text'
+0.248118 0.248118 0 0 0   0.248118 0.248118 0 0 0  'Sheet Scales Area Profile' 'Sheet Scales Area Profile Text' 'Sheet Scales Area Plan' 'Sheet Scales Area Plan Text'

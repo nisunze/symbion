@@ -1,0 +1,30 @@
+TYPE='NUM FILE' VERSION='8' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu.num'
+1 0 0 -1 -1 0 0 0 0
+0 ; number of PI points
+0.0000 0.0000 0.0000 0.000000 ; start_station start_x start_y start_direction
+3.0480 15.2400 ; max_ground_offset max_prof_offset
+20 ; num_sideprofs
+0 -4.5720 1.5240 30.4800 ; display offset tolerance separation
+0 4.5720 1.5240 30.4800 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 ; number station equations
+1 0 0 0
+0 0 0
+'Unknown or Unvailable' '' '' '' 0

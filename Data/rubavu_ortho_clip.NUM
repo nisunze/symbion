@@ -1,0 +1,38 @@
+TYPE='NUM FILE' VERSION='8' UNITS='SI' SOURCE='PLS-CADD Version 9.20' USER='Dulhunty Industries' FILENAME='d:\pro\aee\220kv line\data\rubavu_ortho_clip.num'
+1 0 0 -1 -1 0 0 0 0
+8 ; number of PI points
+419627.6018 4805513.3603 1497.0690 0.0000 0.0000 0
+419739.6293 4805540.1869 1512.2250 0.0000 0.0000 0
+420606.8853 4805765.4132 1711.1250 0.0000 0.0000 0
+421292.9608 4806165.8552 1763.2440 0.0000 0.0000 0
+421779.7078 4806431.5049 1794.0700 0.0000 0.0000 0
+421945.7054 4806607.1932 1841.3620 0.0000 0.0000 0
+423135.2013 4807505.8504 1726.2850 0.0000 0.0000 0
+423462.8819 4807410.4787 1721.9050 0.0000 0.0000 0
+0.0000 419627.6018 4805513.3603 13.466714 ; start_station start_x start_y start_direction
+3.0480 15.2400 ; max_ground_offset max_prof_offset
+20 ; num_sideprofs
+0 -4.5720 1.5240 30.4800 ; display offset tolerance separation
+0 4.5720 1.5240 30.4800 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 0.0000 0.0000 0.0000 ; display offset tolerance separation
+0 ; number station equations
+1 0 0 0
+24390 2295 0
+'Unknown or Unvailable' '' '' '' 0
