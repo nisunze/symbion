@@ -1,0 +1,91 @@
+﻿Count,Name,Color,Hyperlink,Layer,Linetype,Linetype Scale,Lineweight,Plot Style,Position X,Position Y,Position Z,ALT,COD,MAT
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,421950.8200,4806612.9000,1835.2900,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,422229.1700,4806822.2200,1754.2900,1754.290,,T.13
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,421951.0200,4806612.7000,1835.2900,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,421950.9200,4806613.0000,1835.2900,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,421951.0200,4806613.1000,1835.2900,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,422229.1700,4806822.2200,1754.2900,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,422732.2100,4807200.5300,1757.4900,1757.490,,T.15
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,422732.2100,4807200.5300,1757.4900,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,422229.0700,4806822.1200,1754.2900,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,422229.2700,4806822.3200,1754.2900,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,422229.2700,4806821.9200,1754.2900,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,421696.1900,4806373.3400,1739.0500,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,421695.9900,4806373.5400,1739.0500,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,421696.1900,4806373.7400,1739.0500,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,421696.0900,4806373.6400,1739.0500,1739.050,,T.10(N).1
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,421696.0900,4806373.6400,1739.0500,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,421795.0400,4806430.9900,1794.0300,1794.030,,T.11
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,421794.9400,4806430.8900,1794.0300,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,421950.9200,4806613.0000,1835.2900,1835.290,,T.12
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,421795.1400,4806430.6900,1794.0300,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,421795.0400,4806430.9900,1794.0300,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,421795.1400,4806431.0900,1794.0300,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,422732.3100,4807200.6300,1757.4900,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,423278.5100,4807453.6800,1759.1600,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,423278.5100,4807453.2800,1759.1600,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,423278.4100,4807453.5800,1759.1600,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,423130.4900,4807500.0100,1722.1900,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,423278.4100,4807453.5800,1759.1600,1759.160,,T.18
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,423278.3100,4807453.4800,1759.1600,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,423449.9300,4807399.2900,1718.0100,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,423449.7300,4807399.4900,1718.0100,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,423449.9300,4807399.6900,1718.0100,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,423449.8300,4807399.5900,1718.0100,1718.010,,T.19
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,423449.8300,4807399.5900,1718.0100,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,422922.0600,4807343.3000,1740.5400,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,422922.1600,4807343.4000,1740.5400,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,422922.0600,4807343.3000,1740.5400,1740.540,,T.16
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,422732.3100,4807200.2300,1757.4900,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,422732.1100,4807200.4300,1757.4900,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,422922.1600,4807343.0000,1740.5400,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,423130.6900,4807500.2100,1722.1900,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,423130.6900,4807499.8100,1722.1900,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,423130.5900,4807500.1100,1722.1900,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,422921.9600,4807343.2000,1740.5400,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,423130.5900,4807500.1100,1722.1900,1722.190,,T.17
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,419765.0600,4805549.4400,1511.5700,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,420081.4700,4805630.5200,1557.6400,1557.640,,T3(NEW).1
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,419765.2600,4805549.2400,1511.5700,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,419765.1600,4805549.5400,1511.5700,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,419765.2600,4805549.6400,1511.5700,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,420081.4700,4805630.5200,1557.6400,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,420399.5400,4805711.9500,1609.6100,1609.610,,T.4
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,420399.5400,4805711.9500,1609.6100,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,420081.3700,4805630.4200,1557.6400,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,420081.5700,4805630.6200,1557.6400,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,420081.5700,4805630.2200,1557.6400,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,420630.1800,4805770.6700,1706.1300,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,420629.9800,4805770.8700,1706.1300,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,420630.1800,4805771.0700,1706.1300,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,420630.0800,4805770.9700,1706.1300,1706.130,,T.5
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,420630.0800,4805770.9700,1706.1300,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,419617.3600,4805580.0900,1467.7800,1467.780,,T.1
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,419617.2600,4805579.9900,1467.7800,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,419765.1600,4805549.5400,1511.5700,1511.570,,T.2
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,419617.4600,4805579.7900,1467.7800,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,419617.3600,4805580.0900,1467.7800,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,419617.4600,4805580.1900,1467.7800,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,420399.6400,4805712.0500,1609.6100,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,421305.1200,4806147.1400,1762.9300,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,421305.1200,4806146.7400,1762.9300,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,421305.0200,4806147.0400,1762.9300,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,420998.7800,4805976.3700,1666.2900,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,421305.0200,4806147.0400,1762.9300,1762.930,,T.8
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,421304.9200,4806146.9400,1762.9300,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,421464.7300,4806239.2300,1721.5400,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,421464.5300,4806239.4300,1721.5400,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,421464.7300,4806239.6300,1721.5400,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,421464.6300,4806239.5300,1721.5400,1721.540,,T.9(N).1
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,421464.6300,4806239.5300,1721.5400,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,420780.7600,4805854.9300,1672.3800,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,420780.8600,4805855.0300,1672.3800,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,420780.7600,4805854.9300,1672.3800,1672.380,,T.6
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,420399.6400,4805711.6500,1609.6100,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,420399.4400,4805711.8500,1609.6100,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,420780.8600,4805854.6300,1672.3800,,,
+1,Attribute Definition,ByLayer,,TopoMat,ByLayer,1.0000,ByLayer,ByLayer,420998.9800,4805976.5700,1666.2900,,,
+1,Attribute Definition,ByLayer,,TopoAlt,ByLayer,1.0000,ByLayer,ByLayer,420998.9800,4805976.1700,1666.2900,,,
+1,Point,ByBlock,,0,ByLayer,1.0000,ByLayer,ByBlock,420998.8800,4805976.4700,1666.2900,,,
+1,Attribute Definition,ByLayer,,TopoCod,ByLayer,1.0000,ByLayer,ByLayer,420780.6600,4805854.8300,1672.3800,,,
+1,TCPOINT,ByLayer,,Points,ByLayer,1.0000,ByLayer,ByLayer,420998.8800,4805976.4700,1666.2900,1666.290,,T.7

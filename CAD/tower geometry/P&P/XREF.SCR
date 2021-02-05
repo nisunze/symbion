@@ -1,0 +1,41 @@
+; usage info: in autocad do file new and then run script xref.scr
+; Following files will be written:
+;  C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.DWG : DWG containing plan and profile sheets
+; Following files will be read:
+;   C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.dxf : DXF file exported from PPSHEET
+;   C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG : DWG equivalent of DXF file C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).dxf
+;   C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés) ED1.DWG : DWG equivalent of DXF file C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés) ED1.dxf
+_new C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.DWG
+; start by reading in dxf file
+_dxfin C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.dxf
+; Make sheets into a block which we will later put in paper space
+_block sheets 0,0 all
+
+; attach plan view reference file
+; attach prof view reference file
+; switch to paper space
+_tilemode 0
+_pspace
+; attach sheets in paper space
+_insert sheets 0,0 1 1 0
+_zoom e
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 0.000,0.000 1 1 0
+_zoom w -41.000,0.000 42.000,29.700
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 43.000,0.000 1 1 0
+_zoom w 2.000,0.000 85.000,29.700
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 86.000,0.000 1 1 0
+_zoom w 45.000,0.000 128.000,29.700
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 129.000,0.000 1 1 0
+_zoom w 88.000,0.000 171.000,29.700
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 172.000,0.000 1 1 0
+_zoom w 131.000,0.000 214.000,29.700
+; attach title block drawing
+_xref a C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\planta y perfil\symbion\Formatos AEE (inglés).DWG 215.000,0.000 1 1 0
+_zoom w 174.000,0.000 257.000,29.700
+_zoom e
+_save C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.DWG

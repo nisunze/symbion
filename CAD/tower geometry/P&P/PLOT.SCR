@@ -1,0 +1,20 @@
+_open C:\Users\daniel.sanchez\OneDrive - AEE Power\cONTRATOS\RW02\ingenieria\Symbion TL design\ed2\P&P\Symbion TL ed2.DWG
+; zoom in on and plot page 1
+_zoom window 0,0 42,29.7 _plot w 0,0 42,29.7 n
+
+; zoom in on and plot page 2
+_zoom window 43,0 85,29.7 _plot w 43,0 85,29.7 n
+
+; zoom in on and plot page 3
+_zoom window 86,0 128,29.7 _plot w 86,0 128,29.7 n
+
+; zoom in on and plot page 4
+_zoom window 129,0 171,29.7 _plot w 129,0 171,29.7 n
+
+; zoom in on and plot page 5
+_zoom window 172,0 214,29.7 _plot w 172,0 214,29.7 n
+
+; zoom in on and plot page 6
+_zoom window 215,0 257,29.7 _plot w 215,0 257,29.7 n
+
+_zoom extents
