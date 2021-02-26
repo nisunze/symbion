@@ -1,2 +1,5 @@
 *.sr.lock
 fc_to_shp.py
+*.bak
+*.dwl
+*.dwl2
